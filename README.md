@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./imgs/banner.png" alt="Banner" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/JohnTenno/JohnTenno/main/imgs/portada.png" />
 </p>
 
